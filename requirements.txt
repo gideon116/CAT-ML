@@ -1,3 +1,4 @@
 tensorflow
 numpy
 google-cloud-storage
+keras_nlp
